@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
