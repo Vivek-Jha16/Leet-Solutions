@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0015-3sum) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
