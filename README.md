@@ -55,6 +55,7 @@
 | [0027-remove-element](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0031-next-permutation) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0013-roman-to-integer](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -182,4 +184,13 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0029-divide-two-integers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
