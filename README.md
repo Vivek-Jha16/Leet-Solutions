@@ -56,6 +56,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
