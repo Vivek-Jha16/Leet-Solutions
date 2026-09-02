@@ -59,6 +59,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0029-divide-two-integers) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
