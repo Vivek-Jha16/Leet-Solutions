@@ -58,6 +58,7 @@
 | [0031-next-permutation](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0035-search-insert-position) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -111,6 +112,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
