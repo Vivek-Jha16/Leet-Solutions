@@ -64,6 +64,7 @@
 | [0037-sudoku-solver](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0041-first-missing-positive) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -78,6 +79,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0041-first-missing-positive) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
