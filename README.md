@@ -33,6 +33,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0012-integer-to-roman](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0043-multiply-strings) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
