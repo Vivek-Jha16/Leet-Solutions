@@ -44,6 +44,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0045-jump-game-ii) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
 ## Manacher
 |  |
@@ -71,6 +72,7 @@
 | [0040-combination-sum-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0045-jump-game-ii) |
 | [1140-stone-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/1140-stone-game-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Vivek-Jha16/Leet-Solutions/tree/master/0045-jump-game-ii) |
 ## Minimax
 |  |
 | ------- |
